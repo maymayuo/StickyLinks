@@ -18,7 +18,7 @@ from NodeStickyLinks import drawsticky
 # To use the interactive user interface of NodeStickyLinks, 
 # simply call the run() function from the run_drawsticky module.
 # This will launch the interface where you can interactively 
-# draw and visualize graphs.
+# draw and visualize graph.
 
 run_drawsticky.run()
 
