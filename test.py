@@ -1,5 +1,5 @@
 
-# NodeStickyLinks Package Usage Examples
+# NodeStickyLinks Package Usage Examples 
 # ---------------------------------------
 # This script demonstrates two ways to use the NodeStickyLinks package:
 # 1. Running an interactive user interface for graph visualization.
