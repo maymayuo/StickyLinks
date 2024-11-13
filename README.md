@@ -310,24 +310,21 @@ If you find our work useful for your research, please consider citing our paper 
 
 ```bibtex
 
-@article{Stickylinks2023_lu,
+@article{StickyLinks22,
 
 title = {Sticky Links: Encoding Quantitative Data of Graph Edges},
 
-author = {Min Lu, Xiangfang Zeng, Joel Lanir, Xiaoqin Sun, Guozheng Li, Daniel Cohen-Or, and Hui Huang},
+author = {Min Lu and Xiangfang Zeng and Joel Lanir and Xiaoqin Sun and Guozheng Li and Daniel Cohen-Or and Hui Huang},
 
-journal = {IEEE Transactions on Visualization and Computer Graphics (to appear)},
+journal = {IEEE Transactions on Visualization and Computer Graphics},
 
-volume = {},
+volume={30},
 
-number = {}, 
+number={6},
 
+pages = {2968--2980},  
 
-pages = {--}, 
-
-
-year = {2023},
-
+year = {2024},
 }
 
 ```
