@@ -306,7 +306,7 @@ The visualization presented below showcases the stickiness style applied to the 
 
 ## Citation
 
-If you find our work useful for your research, please consider citing our paper :)
+If you find our work useful for your research, please consider citing our paper :), more details see:https://vcc.tech/research/2024/StickyLinks
 
 ```bibtex
 
